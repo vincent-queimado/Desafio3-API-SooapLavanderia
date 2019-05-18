@@ -4,7 +4,7 @@
 
 # Desafio de criação de API para plataforma de gestão de lavanderia.
 
-## Demo
+## Demo SOOAP
 
 Desafio de API demo: http://www.everguard.com.br/sooap:9090
 
@@ -19,9 +19,6 @@ Ao solicitar uma lavagem, a plataforma verifica se existe algum carro disponíve
 Implementar uma API REST em Ruby, que permita o cadastro, login e solicitação de pedidos na
 Sooap.
 
-<p align="center">
-  <img src="https://everguard.com.br/desafios/grafo_desafio1.png" width="400" title="Figura1" alt="Figura1">
-</p>
 
 ### Requisitos
 
