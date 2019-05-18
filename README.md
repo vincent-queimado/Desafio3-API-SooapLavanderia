@@ -16,7 +16,7 @@ prático do que as pessoas lavarem as próprias roupas.
 Inicialmente, a Sooap só possuirá dois carros para coleta. Um funcionando de domingo a domingo e outro funcionando de terça a sexta. Cada coleta demora 30 minutos.
 Ao solicitar uma lavagem, a plataforma verifica se existe algum carro disponível naquele horário e confirma a coleta. Caso não haja, a deve notificar o usuário, para que outro horário seja escolhido.
 
-Implementar uma API REST em Ruby, que permita o cadastro, login e solicitação de pedidos na
+Implementar uma API REST em NodeJS, que permita o cadastro, login e solicitação de pedidos na
 Sooap.
 
 
