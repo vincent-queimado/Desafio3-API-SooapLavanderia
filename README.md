@@ -21,7 +21,7 @@ Sooap.
 
 
 ### Requisitos
-
+* [PostMan](https://www.getpostman.com) - Tool for API Development Environment test
 * [NodeJs](https://nodejs.org/en/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ### Instalação
