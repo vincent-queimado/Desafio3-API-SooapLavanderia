@@ -21,7 +21,7 @@ Sooap.
 
 
 ### Requisitos
-* [PostMan](https://www.getpostman.com) - Instalar Postman API Development Environment para realização de testes.
+* [PostMan](https://www.getpostman.com) - Instalar Postman API Development Environment para realização de testes de API.
 * [MongoDB](https://www.mongodb.com/) - Instalar MongoDB - NoSQL database para simular armazenamento de dados de cadastros.
 * [NodeJs](https://nodejs.org/en/) - Instalar NodeJS - V8 JavaScript engine para executar o projeto.
 
