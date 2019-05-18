@@ -30,8 +30,11 @@ Sooap.
 1. Realizar o download ou clone do projeto;
 2. Descompactar o projeto;
 3. Abrir um terminal de comando a partir da pasta do projeto;
-4. Executar o arquivos App.js do projeto a partir do comando:
-
+4. Executar o comando de instalação dos modules necessarios ao projeto:
+```
+$ npm install
+```
+5. Executar o arquivos App.js do projeto a partir do comando:
 ```
 $ node app.js
 ```
@@ -54,4 +57,4 @@ $ sudo node server.js
 
 6. Acessar a plataforma de seguros no seu navegador (porta 9090):
 
-localhost:9090
+localhost/sooap:9090
