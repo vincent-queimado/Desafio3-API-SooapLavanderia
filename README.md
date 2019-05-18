@@ -30,7 +30,7 @@ Sooap.
 1. Realizar o download ou clone do projeto;
 2. Descompactar o projeto;
 3. Abrir um terminal de comando a partir da pasta do projeto;
-4. Executar o comando de instalação dos modules necessários ao projeto:
+4. Executar o comando de instalação dos módulos necessários ao projeto via npm:
 ```
 $ npm install
 ```
