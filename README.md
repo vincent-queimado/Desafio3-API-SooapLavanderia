@@ -1,4 +1,4 @@
-![Desafio](http://everguard.com.br:9090/static/images/app/Sooap.png)
+![Desafio](http://everguard.com.br:9090/static/images/app/Logo_Sooap.png)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg?longCache=true&style=flat-square)
 
