@@ -21,7 +21,8 @@ Sooap.
 
 
 ### Requisitos
-* [PostMan](https://www.getpostman.com) - Tool for API Development Environment test
+* [PostMan](https://www.getpostman.com) - Postman Tool for API Development Environment test.
+* [MongoDB](https://www.mongodb.com/) - MongoDB is an open-source document database and leading NoSQL database.
 * [NodeJs](https://nodejs.org/en/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ### Instalação
