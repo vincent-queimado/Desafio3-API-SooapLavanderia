@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/desafio1",
+    "secret": "DESAFIO 1 REST API WEB EM NODE JS !"
+}
