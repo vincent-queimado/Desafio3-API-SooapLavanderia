@@ -36,7 +36,7 @@ $ npm install
 ```
 5. Executar o arquivos App.js do projeto a partir do comando:
 ```
-$ node app.js
+$ node server.js
 ```
 
 ### API de Cadastro de Usuário
