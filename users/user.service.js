@@ -16,7 +16,7 @@ module.exports = {
 async function authenticate({ username, password }) {
     const user = await User.findOne({ username });
     if (user && bcrypt.compareSync(password, user.hash)) {
-        const { hash, ...userWithoutHash } = user.toObject();
+        const { hash, address, phone, ...userWithoutHash } = user.toObject(); // sem informações de password, address, phone
         const token = jwt.sign({ sub: user.id }, config.secret);
         return {
             ...userWithoutHash,
@@ -26,11 +26,11 @@ async function authenticate({ username, password }) {
 }
 
 async function getAll() {
-    return await User.find().select('-hash');
+    return await User.find().select('-hash, -address, -phone');
 }
 
 async function getById(id) {
-    return await User.findById(id).select('-hash');
+    return await User.findById(id).select('-hash, -address, -phone');
 }
 
 async function create(userParam) {
