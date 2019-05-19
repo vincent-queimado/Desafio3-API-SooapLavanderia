@@ -43,7 +43,7 @@ $ node app.js
 
 Endpoint: http://localhost:4000/users/register
 
-Campos obrigatórios (key): username, password, lastName, firstName
+Campos obrigatórios (key): username, password, lastName, firstName, address, phone
 
 Observação: Valor de campo de senha "password" criptografado atraves de hash.
 
