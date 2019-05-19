@@ -42,7 +42,9 @@ $ node app.js
 ### API de Cadastro de Usuário
 
 Endpoint: http://localhost:4000/users/register
+
 Campos obrigatórios (key): username, password, lastName, firstName
+
 Observação: Valor de campo de senha "password" criptografado atraves de hash.
 
 Resultado:
@@ -59,7 +61,9 @@ Resultado:
 ### API de Login de Usuário
 
 Endpoint: http://localhost:4000/users/authenticate
+
 Campos obrigatórios (key): username, password
+
 
 Resultado:
 ```
