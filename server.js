@@ -21,7 +21,7 @@ app.use('/orders', require('./orders/orders.controller'));
 app.use(errorHandler);
 
 // Inicialização do serviço
-const port = process.env.NODE_ENV === 'production' ? (process.env.PORT || 80) : 4000;
+const port = process.env.NODE_ENV === 'production' ? (process.env.PORT || 80) : 9090;
 const server = app.listen(port, function() {
     console.log('Soaap service listening on port ' + port);
 });
