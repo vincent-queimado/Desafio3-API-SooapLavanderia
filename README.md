@@ -88,3 +88,11 @@ Endpoint: http://localhost:4000/orders/register
 Acesso permitido apenas após realizar o login via Token gerado pelo usuário. Para simulação, selecionar o modo de authenticação "Bearer TOKEN_STRING" na aba de configuração de autorização da ferramenta de teste PostMan.
 
 Campos obrigatórios (key): usernameId, clothes, schedule
+
+<p align="center">
+  <img src="https://everguard.com.br/desafios/API_Token_Mode.png" width="500" title="Token Mode" alt="Token_Mode">
+</p>
+
+<p align="center">
+  <img src="https://everguard.com.br/desafios/API_Pedido_Coleta.png" width="500" title="Pedido Coleta" alt="Pedido_Coleta">
+</p>
