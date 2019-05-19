@@ -47,3 +47,10 @@ http://localhost:4000/users/register
   <img src="https://everguard.com.br/desafios/API_CadastroUsuario.png" width="500" title="Cadastro" alt="Cadastro">
 </p>
 
+### API de Login de Usuário
+
+http://localhost:4000/users/authenticate
+
+<p align="center">
+  <img src="https://everguard.com.br/desafios/API_LoginUsuario.png" width="500" title="Login" alt="Login">
+</p>
