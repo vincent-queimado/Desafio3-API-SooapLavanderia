@@ -96,7 +96,7 @@ Configuração do token de usuário para teste de pedido:
 </p>
 
 
-Resultado:
+Resultado em caso de sucesso da solicitação:
 ```
 {
     "message": "Pedido cadastrado com sucesso!"
@@ -105,5 +105,16 @@ Resultado:
 
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_PedidoColeta.png" width="500" title="Teste de API de Pedido de coleta de roupas" alt="Pedido_Coleta">
+</p>
+
+Resultado em caso de tentativa de cadastro por usuário desconhecido no sistema:
+```
+{
+    "message": "Usuário invalido. O pedido não pode ser cadastrado!"
+}
+```
+
+<p align="center">
+  <img src="https://everguard.com.br/desafios/API_PedidoColeta_Invalida.png" width="500" title="Teste de API de Pedido de coleta com usuário desconhecido" alt="Pedido_Coleta">
 </p>
 
