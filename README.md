@@ -45,7 +45,7 @@ Endpoint: http://localhost:4000/users/register
 
 Campos obrigatórios (key): username, password, lastName, firstName, address, phone
 
-Observação: Valor de campo de senha "password" criptografado atraves de hash.
+Observação: Valor de campo de senha "password" criptografado através de hash.
 
 Resultado:
 ```
@@ -80,3 +80,7 @@ Resultado:
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_LoginUsuario.png" width="500" title="Login" alt="Login">
 </p>
+
+### API de solicitação de coleta de roupa para lavagem
+
+Authorization: Bearer TOKEN_STRING
