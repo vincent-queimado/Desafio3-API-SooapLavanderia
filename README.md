@@ -45,6 +45,9 @@ Endpoint: http://localhost:4000/users/register
 
 Resultado:
 ```
+{
+    "message": "Usuário vincent cadastrado com sucesso!"
+}
 ```
 
 <p align="center">
