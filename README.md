@@ -39,12 +39,12 @@ $ npm install
 $ node app.js
 ```
 
-#API de Cadastro de Usuário
+### API de Cadastro de Usuário
 
 http://localhost:4000/users/register
 
 <p align="center">
-  <img src="https://everguard.com.br/desafios/API_CadastroUsuario.png" width="400" title="Cadastro" alt="Cadastro">
+  <img src="https://everguard.com.br/desafios/API_CadastroUsuario.png" width="500" title="Cadastro" alt="Cadastro">
 </p>
 
 
