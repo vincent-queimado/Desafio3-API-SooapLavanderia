@@ -89,9 +89,19 @@ Acesso permitido apenas após realizar o login via Token gerado pelo usuário. P
 
 Campos obrigatórios (key): usernameId, clothes, schedule
 
+Configuração do token de usuário para teste de pedido:
+
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_Token_Mode.png" width="500" title="Token Mode" alt="Token_Mode">
 </p>
+
+
+Resultado:
+```
+{
+    "message": "Pedido cadastrado com sucesso!"
+}
+```
 
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_Pedido_Coleta.png" width="500" title="Pedido Coleta" alt="Pedido_Coleta">
