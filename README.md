@@ -81,7 +81,7 @@ Resultado:
   <img src="https://everguard.com.br/desafios/API_LoginUsuario.png" width="500" title="Login" alt="Login">
 </p>
 
-### API de solicitação de coleta de roupa para lavagem
+### API de solicitação de coleta de roupas para lavagem
 
 Endpoint: http://localhost:4000/orders/register
 
