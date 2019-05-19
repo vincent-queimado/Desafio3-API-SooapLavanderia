@@ -78,7 +78,7 @@ Resultado:
 }
 ```
 <p align="center">
-  <img src="https://everguard.com.br/desafios/API_LoginUsuario.png" width="500" title="Login" alt="Login">
+  <img src="https://everguard.com.br/desafios/API_LoginUsuario.png" width="500" title="Teste de API de Login" alt="Login">
 </p>
 
 ### API de solicitação de coleta de roupas para lavagem
@@ -92,7 +92,7 @@ Campos obrigatórios (key): userId, clothes, schedule
 Configuração do token de usuário para teste de pedido:
 
 <p align="center">
-  <img src="https://everguard.com.br/desafios/API_Token_Mode.png" width="500" title="Token Mode" alt="Token_Mode">
+  <img src="https://everguard.com.br/desafios/API_Token_Mode.png" width="500" title="Configuração do Token" alt="Token_Mode">
 </p>
 
 
@@ -104,5 +104,5 @@ Resultado:
 ```
 
 <p align="center">
-  <img src="https://everguard.com.br/desafios/API_Pedido_Coleta.png" width="500" title="Pedido Coleta" alt="Pedido_Coleta">
+  <img src="https://everguard.com.br/desafios/API_Pedido_Coleta.png" width="500" title="Teste de API de Pedido de coleta de roupas" alt="Pedido_Coleta">
 </p>
