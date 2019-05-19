@@ -41,7 +41,11 @@ $ node app.js
 
 ### API de Cadastro de Usuário
 
-http://localhost:4000/users/register
+Endpoint: http://localhost:4000/users/register
+
+Resultado:
+```
+```
 
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_CadastroUsuario.png" width="500" title="Cadastro" alt="Cadastro">
@@ -49,8 +53,20 @@ http://localhost:4000/users/register
 
 ### API de Login de Usuário
 
-http://localhost:4000/users/authenticate
+Endpoint: http://localhost:4000/users/authenticate
 
+Resultado:
+```
+{
+    "_id": "5ce0ba4ac8e4fc1a000ef6b8",
+    "username": "vincent",
+    "firstName": "Vincent",
+    "lastName": "Queimado",
+    "createdDate": "2019-05-19T02:07:06.445Z",
+    "__v": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1Y2UwYmE0YWM4ZTRmYzFhMDAwZWY2YjgiLCJpYXQiOjE1NTgyMzE5ODl9.miAy_EhYhSXiHCYYLCaI-yA84uYX49FHwu2wmObCETc"
+}
+```
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_LoginUsuario.png" width="500" title="Login" alt="Login">
 </p>
