@@ -110,7 +110,7 @@ Resultado em caso de sucesso da solicitação:
 Resultado em caso de tentativa de cadastro por usuário desconhecido no sistema:
 ```
 {
-    "message": "Usuário invalido. O pedido não pode ser cadastrado!"
+    "message": "Usuário inválido. O pedido não pode ser cadastrado!"
 }
 ```
 
