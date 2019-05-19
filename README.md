@@ -106,3 +106,4 @@ Resultado:
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_Pedido_Coleta.png" width="500" title="Teste de API de Pedido de coleta de roupas" alt="Pedido_Coleta">
 </p>
+
