@@ -83,4 +83,8 @@ Resultado:
 
 ### API de solicitação de coleta de roupa para lavagem
 
-Authorization: Bearer TOKEN_STRING
+Endpoint: http://localhost:4000/orders/order
+
+Acesso permitido apenas após realizar o login via Token gerado pelo usuário. Para simulação, selecionar o modo de authenticação "Bearer TOKEN_STRING" na configuração da ferramenta PostMan.
+
+Campos obrigatórios (key): usernameId, clothes, schedule
