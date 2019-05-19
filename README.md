@@ -85,6 +85,6 @@ Resultado:
 
 Endpoint: http://localhost:4000/orders/register
 
-Acesso permitido apenas após realizar o login via Token gerado pelo usuário. Para simulação, selecionar o modo de authenticação "Bearer TOKEN_STRING" na configuração da ferramenta PostMan.
+Acesso permitido apenas após realizar o login via Token gerado pelo usuário. Para simulação, selecionar o modo de authenticação "Bearer TOKEN_STRING" na aba de configuração de autorização da ferramenta de teste PostMan.
 
 Campos obrigatórios (key): usernameId, clothes, schedule
