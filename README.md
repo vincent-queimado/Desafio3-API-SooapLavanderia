@@ -47,5 +47,3 @@ http://localhost:4000/users/register
   <img src="https://everguard.com.br/desafios/API_CadastroUsuario.png" width="500" title="Cadastro" alt="Cadastro">
 </p>
 
-
-
