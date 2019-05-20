@@ -1,5 +1,6 @@
 //Importação de conector e schema de banco de dados via Mangoose 
 const mongoose = require('mongoose');
+
 const Schema = mongoose.Schema;
 
 //Definição do documento de usuarios e campos obrigatorios
@@ -10,7 +11,7 @@ const schema = new Schema({
     lastName: { type: String, required: true },
     address: { type: String, required: true },
     phone: { type: String, required: true },
-    createdDate: { type: Date, default: Date.now }
+    createdDate: { type: Date, default: Date.now() }
 });
 
 schema.set('toJSON', { virtuals: true });
