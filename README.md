@@ -129,6 +129,15 @@ Resultado em caso de sucesso da solicitação:
   <img src="https://everguard.com.br/desafios/API_PedidoColeta.png" width="500" title="Teste de API de Pedido de coleta de roupas" alt="Pedido_Coleta">
 </p>
 
+
+Resultado em caso de veículos não disponíveis:
+```
+{
+    "message": "Sem disponibilidade de veículo para coleta neste horário. Escolha outro horário! "
+}
+```
+
+
 Resultado em caso de tentativa de cadastro por usuário desconhecido no sistema:
 ```
 {
