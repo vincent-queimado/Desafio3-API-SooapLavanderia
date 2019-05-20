@@ -49,14 +49,14 @@ Resultado esperado:
 }
 ```
 
-Simulação de API com resultado caso sucesso de cadastro:
+Simulação de API com resultado em caso de sucesso de cadastro:
 
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_User_Register_Sucess.png" width="500" title="Teste de API de Cadastro de Usuário" alt="Cadastro">
 </p>
 
 
-Simulação de API com resultado caso o usuário já existe:
+Simulação de API com resultado em caso de usuário já cadastrado:
 
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_User_Register_Exist.png" width="500" title="Teste de API de Cadastro de Usuário" alt="Cadastro">
