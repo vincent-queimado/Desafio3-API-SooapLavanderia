@@ -41,7 +41,7 @@ $ node server.js
 
 ### API de Cadastro de Usuário
 
-Endpoint: http://localhost:4000/users/register
+Endpoint: http://localhost:9090/users/register
 
 Campos obrigatórios (key): username, password, lastName, firstName, address, phone
 
@@ -60,7 +60,7 @@ Resultado:
 
 ### API de Login de Usuário
 
-Endpoint: http://localhost:4000/users/authenticate
+Endpoint: http://localhost:9090/users/authenticate
 
 Campos obrigatórios (key): username, password
 
@@ -83,7 +83,7 @@ Resultado:
 
 ### API de solicitação de coleta de roupas para lavagem
 
-Endpoint: http://localhost:4000/orders/register
+Endpoint: http://localhost:9090/orders/register
 
 Acesso permitido apenas após realizar o login via Token gerado pelo usuário. Para simulação, selecionar o modo de authenticação "Bearer TOKEN_STRING" na aba de configuração de autorização da ferramenta de teste PostMan.
 
