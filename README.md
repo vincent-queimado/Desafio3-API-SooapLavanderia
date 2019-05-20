@@ -112,7 +112,7 @@ Campos obrigatórios (key): userId, clothes, schedule
 Configuração do token de usuário para teste de pedido:
 
 <p align="center">
-  <img src="https://everguard.com.br/desafios/API_Token_Mode.png" width="500" title="Configuração do Token" alt="Token_Mode">
+  <img src="https://everguard.com.br/desafios/API_User_Token_Access.png" width="500" title="Configuração do Token" alt="Token_Mode">
 </p>
 
 
