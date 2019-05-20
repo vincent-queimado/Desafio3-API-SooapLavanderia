@@ -101,7 +101,11 @@ Simulação de resultado em caso de acesso negado:
 
 Endpoint: http://localhost:9090/orders/register
 
-Acesso permitido apenas após realizar o login via Token gerado pelo usuário. Para simulação, selecionar o modo de authenticação "Bearer TOKEN_STRING" na aba de configuração de autorização da ferramenta de teste PostMan.
+Acesso permitido apenas após realizar o login via Token gerado pelo usuário. Para simulação, selecionar o modo de authenticação "Bearer TOKEN_STRING" na aba de configuração de autorização da ferramenta de teste PostMan e colar no campo "Token" a chave gerada na etapa anterior.
+
+Exemplo de Token a colar: 
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1Y2UyOTI5NGVlN2YzYTFiNjQ5MmNiYzQiLCJpYXQiOjE1NTgzNTMxNDh9.K-VQZFqoap4mP4cGd8oTTytP1LEKsPTWiWhhCPBPVxc 
 
 Campos obrigatórios (key): userId, clothes, schedule
 
