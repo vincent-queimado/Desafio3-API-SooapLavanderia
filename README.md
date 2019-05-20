@@ -86,14 +86,14 @@ Resultado esperado - retorno apenas as informações importantes do usuário e t
 Simulação de resultado em caso de sucesso:
 
 <p align="center">
-  <img src="https://everguard.com.br/desafios/API_Auth_Success.png" width="500" title="Teste de API de Login" alt="Login">
+  <img src="https://everguard.com.br/desafios/API_User_Auth_Success.png" width="500" title="Teste de API de Login" alt="Login">
 </p>
 
 
 Simulação de resultado em caso acesso negado:
 
 <p align="center">
-  <img src="https://everguard.com.br/desafios/API_Auth_Denied.png" width="500" title="Teste de API de Login" alt="Login">
+  <img src="https://everguard.com.br/desafios/API_User_Auth_Denied.png" width="500" title="Teste de API de Login" alt="Login">
 </p>
 
 
