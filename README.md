@@ -62,6 +62,7 @@ Simulação de API com resultado em caso de usuário já cadastrado:
   <img src="https://everguard.com.br/desafios/API_User_Register_Exist.png" width="500" title="Teste de API de Cadastro de Usuário" alt="Cadastro">
 </p>
 
+
 ### API de Login de Usuário
 
 Endpoint: http://localhost:9090/users/authenticate
@@ -69,21 +70,32 @@ Endpoint: http://localhost:9090/users/authenticate
 Campos obrigatórios (key): username, password
 
 
-Resultado esperado (retorno apenas as informações importantes do usuário):
+Resultado esperado - retorno apenas as informações importantes do usuário e token:
 ```
 {
-    "_id": "5ce0ba4ac8e4fc1a000ef6b8",
+    "createdDate": "2019-05-20T11:35:05.647Z",
+    "_id": "5ce29294ee7f3a1b6492cbc4",
     "username": "vincent",
     "firstName": "Vincent",
     "lastName": "Queimado",
-    "createdDate": "2019-05-19T02:07:06.445Z",
     "__v": 0,
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1Y2UwYmE0YWM4ZTRmYzFhMDAwZWY2YjgiLCJpYXQiOjE1NTgyMzE5ODl9.miAy_EhYhSXiHCYYLCaI-yA84uYX49FHwu2wmObCETc"
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1Y2UyOTI5NGVlN2YzYTFiNjQ5MmNiYzQiLCJpYXQiOjE1NTgzNTMxNDh9.K-VQZFqoap4mP4cGd8oTTytP1LEKsPTWiWhhCPBPVxc"
 }
 ```
+
+Simulação de resultado em caso de sucesso:
+
 <p align="center">
-  <img src="https://everguard.com.br/desafios/API_LoginUsuario.png" width="500" title="Teste de API de Login" alt="Login">
+  <img src="https://everguard.com.br/desafios/API_Auth_Success.png" width="500" title="Teste de API de Login" alt="Login">
 </p>
+
+
+Simulação de resultado em caso acesso negado:
+
+<p align="center">
+  <img src="https://everguard.com.br/desafios/API_Auth_Denied.png" width="500" title="Teste de API de Login" alt="Login">
+</p>
+
 
 ### API de solicitação de coleta de roupas para lavagem
 
