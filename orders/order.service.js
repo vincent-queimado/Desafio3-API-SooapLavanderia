@@ -56,12 +56,10 @@ async function create(orderParam) {
 
 
     // Verifica no banco de dados quantos registros de solicitação existem nesse range de tempo
-    if (await Order.find({ schedule: { $gte: dateStart, $lte: dateStop } }).exec(function(err, results) { //Busca quantos 
-            console.log(results.length);
-        }));
+    var resultaoPesquisa = await Order.find({ schedule: { $gte: dateStart, $lte: dateStop } });
+    count = resultaoPesquisa.length;
 
-
-
+    // Verifica a quantidade de registros na faixa de tempo e veiculos disponiveis
     if (await count == 0) {
         console.log("Nenhum pedido encontrado entre " + moment(dateStart).format('YYYY-MM-DD HH:mm') + " a " + moment(dateStop).format('YYYY-MM-DD HH:mm') + ".");
     }
