@@ -109,6 +109,8 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1Y2UyOTI5NGVlN2YzYTFiNjQ5MmNiYzQ
 
 Campos obrigatórios (key): userId, clothes, schedule
 
+Observações: O campo "userId" deve ser o ID do usuário cadastrado na primeira etapa. O campo "clothes" serà utilizado para informações de roupas. O campo "schedule" serà utilizado para a data de solicitação de agendamento (formato UTC completo).
+
 Configuração do token de usuário para teste de pedido:
 
 <p align="center">
