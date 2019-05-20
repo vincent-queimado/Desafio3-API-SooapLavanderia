@@ -50,7 +50,7 @@ Resultado:
 ```
 
 <p align="center">
-  <img src="https://everguard.com.br/desafios/API_Cadastro_Usuario.png" width="500" title="Teste de API de Cadastro de Usuário" alt="Cadastro">
+  <img src="https://everguard.com.br/desafios/API_User_Register.png" width="500" title="Teste de API de Cadastro de Usuário" alt="Cadastro">
 </p>
 
 ### API de Login de Usuário
