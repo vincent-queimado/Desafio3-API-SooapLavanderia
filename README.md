@@ -42,19 +42,21 @@ Campos obrigatórios (key): username, password, lastName, firstName, address, ph
 
 Observação: Valor de campo de senha "password" criptografado através de hash.
 
-Resultado:
+Resultado esperado:
 ```
 {
     "message": "Usuário vincent cadastrado com sucesso!"
 }
 ```
 
+Simulação de API com resultado caso sucesso de cadastro:
+
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_User_Register_Sucess.png" width="500" title="Teste de API de Cadastro de Usuário" alt="Cadastro">
 </p>
 
 
-Resultado caso o usuário já existe:
+Simulação de API com resultado caso o usuário já existe:
 
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_User_Register_Exist.png" width="500" title="Teste de API de Cadastro de Usuário" alt="Cadastro">
