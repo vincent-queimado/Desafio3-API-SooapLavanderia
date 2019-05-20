@@ -90,7 +90,7 @@ Simulação de resultado em caso de sucesso:
 </p>
 
 
-Simulação de resultado em caso acesso negado:
+Simulação de resultado em caso de acesso negado:
 
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_User_Auth_Denied.png" width="500" title="Teste de API de Login" alt="Login">
