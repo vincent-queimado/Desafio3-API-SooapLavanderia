@@ -69,7 +69,7 @@ Endpoint: http://localhost:9090/users/authenticate
 Campos obrigatórios (key): username, password
 
 
-Resultado:
+Resultado esperado (retorno apenas as informações importantes do usuário):
 ```
 {
     "_id": "5ce0ba4ac8e4fc1a000ef6b8",
