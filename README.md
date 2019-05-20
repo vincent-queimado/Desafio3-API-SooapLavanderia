@@ -125,17 +125,26 @@ Resultado em caso de sucesso da solicitação:
 }
 ```
 
+Simulação de resultado em caso de sucesso:
+
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_PedidoColeta.png" width="500" title="Teste de API de Pedido de coleta de roupas" alt="Pedido_Coleta">
 </p>
 
 
-Resultado em caso de veículos não disponíveis:
+Resultado em caso de veículos indisponíveis no horário:
 ```
 {
     "message": "Sem disponibilidade de veículo para coleta neste horário. Escolha outro horário! "
 }
 ```
+
+Simulação de resultado em caso de veiculos indisponíveis:
+
+<p align="center">
+  <img src="https://everguard.com.br/desafios/API_Order_Denied.png" width="500" title="Teste de API de Pedido de coleta de roupas" alt="Pedido_Coleta">
+</p>
+
 
 
 Resultado em caso de tentativa de cadastro por usuário desconhecido no sistema:
@@ -144,6 +153,8 @@ Resultado em caso de tentativa de cadastro por usuário desconhecido no sistema:
     "message": "Usuário inválido. O pedido não pode ser cadastrado!"
 }
 ```
+
+Simulação de resultado em caso de tentativa de criação de pedido a partir de usuário não válido:
 
 <p align="center">
   <img src="https://everguard.com.br/desafios/API_PedidoColeta_Invalida.png" width="500" title="Teste de API de Pedido de coleta com usuário desconhecido" alt="Pedido_Coleta">
