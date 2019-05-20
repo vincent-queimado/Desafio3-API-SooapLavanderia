@@ -4,11 +4,6 @@
 
 # Desafio de criação de API para plataforma de gestão de lavanderia.
 
-## Demo SOOAP
-
-Desafio de API demo: http://www.everguard.com.br/sooap:9090
-
-
 ## Objetivo do desafio
 
 A Sooap é uma lavanderia completa. Lava de camisas e ternos a roupas íntimas e meias. A empresa vai buscar as roupas na casa do cliente, lava e entrega de volta em casa. A ideia é substituir a máquina de lavar dos clientes e fazer com que esse serviço leva e trás seja mais
