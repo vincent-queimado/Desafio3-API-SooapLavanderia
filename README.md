@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg?longCache=true&style=flat-square)
 
-# Rascunho de projeto de criação de API para plataforma de gestão de lavanderia.
+# Rascunho de projeto de API para plataforma de gestão de lavanderia.
 
 ## Objetivo do desafio
 
