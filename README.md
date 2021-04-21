@@ -1,5 +1,3 @@
-![Desafio](https://everguard.com.br/desafios/Logo_Sooap.png)
-
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg?longCache=true&style=flat-square)
 
 # Rascunho de projeto de API para plataforma de gestão de lavanderia.
