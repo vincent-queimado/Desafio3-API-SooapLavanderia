@@ -2,7 +2,7 @@
 
 # Rascunho de projeto de API para plataforma de gestão de lavanderia.
 
-## Objetivo do desafio
+## Objetivo
 
 A Sooap é uma lavanderia completa. Lava de camisas e ternos a roupas íntimas e meias. A empresa vai buscar as roupas na casa do cliente, lava e entrega de volta em casa. A ideia é substituir a máquina de lavar dos clientes e fazer com que esse serviço leva e trás seja mais
 prático do que as pessoas lavarem as próprias roupas.
